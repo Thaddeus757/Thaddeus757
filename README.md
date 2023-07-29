@@ -6,7 +6,9 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications:<h2>
- - [Comptia A+](https://www.comptia.org/certifications/a) 
+  
+  - [Comptia A+](https://www.comptia.org/certifications/a)
+
 <h2>Connect with me:</h2>
 
 
