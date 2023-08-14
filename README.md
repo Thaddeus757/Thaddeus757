@@ -2,8 +2,8 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Active Directory Lab</b>
-  - [Practicing Active Directory Lab](https://github.com/Thaddeus757/ActiveDirectoryLab)
+- <b>Powershell Disk Wipe</b>
+  - [Practicing Powershell](https://github.com/Thaddeus757/ActiveDirectoryLab)
 
 <h2>Certifications:<h2>
   
