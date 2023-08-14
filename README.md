@@ -4,6 +4,8 @@
 
 - <b>Powershell Disk Wipe</b>
   - [Practicing Powershell](https://github.com/Thaddeus757/ActiveDirectoryLab)
+- <b>VM Threat Lab</b>
+  - [VM Lab](https://github.com/Thaddeus757/AsureThreatLab)
 
 <h2>Certifications:<h2>
   
